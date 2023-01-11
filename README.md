@@ -1,7 +1,7 @@
 ### Hello! My name is Israella. 👋
 <h1> This is my special place. </h1>
 :cloud: I'm currently studing cloud computing. :cloud: <br />
-:woman_technologist: I'm learnig C#, Python, Java, SQL and other tecnologies. :woman_technologist: <br />
+:woman_technologist: I'm also learnig about C#, Python, Java, SQL and other tecnologies. :woman_technologist: <br />
 
  <br>
 <div  align="center"> 
