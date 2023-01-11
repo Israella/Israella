@@ -1,22 +1,7 @@
-### Hi there 👋
-
-<!--
-**Israella/Israella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1> Hi! My name is Israella. </h1>
-I'm currently studing cloud computing. :cloud:  <br />
-I'm learnig C#, Python, Java, SQL and other tecnologies.  <br />
+### Hello! My name is Israella. 👋
+<h1> This is my special place. </h1>
+:cloud: I'm currently studing cloud computing. :cloud: <br />
+:woman_technologist: I'm learnig C#, Python, Java, SQL and other tecnologies. :woman_technologist: <br />
 
  <br>
 <div  align="center"> 
