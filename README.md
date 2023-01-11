@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Hi! My name is Israella. </h1>
-I'm currently studing cloud computing.
-I'm learnig C#, Python, Java, SQL and other tecnologies.
+I'm currently studing cloud computing. :cloud:  <br />
+I'm learnig C#, Python, Java, SQL and other tecnologies.  <br />
 
 <div>
   <a href="https://github.com/israella">
@@ -33,10 +33,5 @@ I'm learnig C#, Python, Java, SQL and other tecnologies.
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
- </div>
- 
-  ![Snake animation](https://github.com/ellen2121/israella/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
  
