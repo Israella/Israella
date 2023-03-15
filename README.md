@@ -1,6 +1,4 @@
-<img align="right" width="400" height="400" src="<iframe src="https://giphy.com/embed/oBYB0gqUy3xxBf89aT" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-logging-in-logged-tf-oBYB0gqUy3xxBf89aT">via GIPHY</a></p>">
-
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/oBYB0gqUy3xxBf89aT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-logging-in-logged-tf-oBYB0gqUy3xxBf89aT">via GIPHY</a></p>
+<img align="right" width="400" height="400" src="<iframe src="https://user-images.githubusercontent.com/89945563/225170690-4bf00518-db15-444d-9ee8-8e375908b073.gif">
 
 
 
