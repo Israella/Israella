@@ -1,6 +1,3 @@
-<img align="right" width="400" height="400" src="<iframe src="https://user-images.githubusercontent.com/89945563/225170690-4bf00518-db15-444d-9ee8-8e375908b073.gif">
-
-
 
 <h1 align="center"> Hi, I'm Israella! This is my special place.:woman_technologist: </h1>
 <h3 align="left"> • I am a tecnology student from Brazil. Futhermore, I am a intern at CompassUOL learning about Data & Analytics. Currently open for new tecnologies, new ways of learning and management time. </h3>
