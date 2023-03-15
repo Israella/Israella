@@ -1,3 +1,9 @@
+<img align="right" width="400" height="400" src="<iframe src="https://giphy.com/embed/oBYB0gqUy3xxBf89aT" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-logging-in-logged-tf-oBYB0gqUy3xxBf89aT">via GIPHY</a></p>">
+
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/oBYB0gqUy3xxBf89aT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-logging-in-logged-tf-oBYB0gqUy3xxBf89aT">via GIPHY</a></p>
+
+
+
 <h1 align="center"> Hi, I'm Israella! This is my special place.:woman_technologist: </h1>
 <h3 align="left"> • I am a tecnology student from Brazil. Futhermore, I am a intern at CompassUOL learning about Data & Analytics. Currently open for new tecnologies, new ways of learning and management time. </h3>
 <h3 align="left"> • Connect with me: </h3>
