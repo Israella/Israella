@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hi, I'm Israella! This is my special place.:woman_technologist: </h1>
-<h3 align="left"> • I am a tecnology student from Brazil. Futhermore, I am a intern at CompassUOL learning about Data & Analytics. Currently open for new tecnologies, new ways of learning and management time. </h3>
+<h1 align="center"> Hi, I'm Israella! This is my special place! </h1>
+<h3 align="left"> • I am a tecnology student from Brazil. Futhermore, I work as a Trainee at CompassUOL, learning about Data & Analytics. Currently open for new tecnologies, new ways of learning and management time. </h3>
 <h3 align="left"> • Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/israella-silva-santos-191863234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/israellasilva" height="30" width="40" /></a>
