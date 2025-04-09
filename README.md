@@ -1,9 +1,10 @@
 
 <h1 align="center"> Hi, I'm Israella! Welcome to my place! 👩‍💻 </h1>
-<h3 align="left"> • I am a data science student from Brazil. Futhermore, I work as a Trainee at CompassUOL, learning about Data & Analytics. Currently open for new tecnologies, new ways of learning and management time. </h3>
+<h3 align="left"> • I am a Data Science student at Estácio, with previous experience in Data Engineering and Data Science at Compass UOL. Currently, I am focusing on Data Analysis, while deepening my understanding of statistics, probability, and core data science concepts to pursue a long-term career as a Data Scientist. I have practical experience with machine learning and data science projects, and I am passionate about using data to uncover patterns and support decision-making. </h3>
+
 <h3 align="left"> • Connect with me: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/israella-silva-santos-191863234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/israellasilva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/israellasilva?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAn3GKITSQLWTtk%2BHwARdVg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/israellasilva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> • Languages and Tools:</h3>
@@ -14,8 +15,7 @@
 <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
 <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>h="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
-</div>
+<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=israella&show_icons=true&theme=dark&locale=en&layout=compact" alt="israella" /></p>
