@@ -8,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" />
   </a>
   <a href="mailto:israellasantoss@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" width="45" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="45" />
   </a>
   <a href="https://medium.com/@isra.ella" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000" alt="Medium" width="45" />
