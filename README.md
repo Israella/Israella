@@ -3,17 +3,22 @@
 <h3 align="left"> • I am a Data Science student at Estácio, with previous experience in Data Engineering and Data Science at Compass UOL. Currently, I am focusing on Data Analysis, while deepening my understanding of statistics, probability, and core data science concepts to pursue a long-term career as a Data Scientist. I have practical experience with machine learning and data science projects, and I am passionate about using data to uncover patterns and support decision-making. </h3>
 
 <h3 align="left">• Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/israellasilva">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" />
+<code>
+  <a href="https://www.linkedin.com/in/israellasilva" target="_blank">
+    <img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="mailto:israellasantoss@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="45" />
+</code>
+<code>
+  <a href="mailto:israellasantoss@gmail.com" target="_blank">
+    <img width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" title="Gmail"/>
   </a>
-  <a href="https://medium.com/@isra.ella">
-    <img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000" alt="Medium" width="45" />
+</code>
+<code>
+  <a href="https://medium.com/@isra.ella" target="_blank">
+    <img width="40" src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000" alt="Medium" title="Medium"/>
   </a>
-</p>
+</code>
+
 
 
 <h3 align="left"> • Languages and Tools:</h3>
