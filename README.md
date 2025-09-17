@@ -28,4 +28,4 @@
 <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png" alt="Databricks" title="Databricks"/></code>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=israella&show_icons=true&theme=dark&locale=en&layout=compact" alt="israella" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israella&show_icons=true&theme=dark&locale=en&layout=compact" alt="israella" /></p>
